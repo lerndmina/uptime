@@ -19,6 +19,8 @@ sites:
     url: $CORS_PROXY_URL
   - name: MinIO
     url: https://console.minioapp.uk
+  - name: My Home Internet
+    url: $HOME_INTERNET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
