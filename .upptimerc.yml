@@ -22,7 +22,6 @@ sites:
   - name: My Home Internet
     url: $HOME_INTERNET
     expectedStatusCodes:
-      - 400
       - 200
       - 201
       - 304
