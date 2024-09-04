@@ -10,7 +10,7 @@ sites:
   - name: shrt.zip
     url: https://shrt.zip/dashboard
   - name: Thalwyrn
-    url: https://thalwyrn.com
+    url: https://thalwyrn.com/index.php?route=/api/v2/info
     headers:
       - "User-Agent": $THALWYRN_USER_AGENT
     expectedStatusCodes:
