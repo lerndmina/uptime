@@ -11,13 +11,11 @@ sites:
     url: https://shrt.zip/dashboard
   - name: Thalwyrn
     url: https://thalwyrn.com/index.php?route=/api/v2/info
-    headers:
-      - "User-Agent": $THALWYRN_USER_AGENT
     expectedStatusCodes:
       - 400
       - 200
       - 201
-  - name: Cors Proxy
+  - name: Cors-Proxy
     url: $CORS_PROXY_URL
 
 status-website:
