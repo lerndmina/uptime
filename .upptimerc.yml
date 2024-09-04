@@ -5,10 +5,20 @@ repo: uptime # The name of this repository
 sites:
   - name: imadam.io
     url: https://imadam.io
-  - name: Shrt.zip
-    url: https://shrt.zip/dashboard
-  - name: Commands.wiki
+  - name: commands.wiki
     url: https://commands.wiki
+  - name: shrt.zip
+    url: https://shrt.zip/dashboard
+  - name: Thalwyrn
+    url: https://thalwyrn.com
+    headers:
+      - "User-Agent": $THALWYRN_USER_AGENT
+    expectedStatusCodes:
+      - 400
+      - 200
+      - 201
+  - name: Cors Proxy
+    url: $CORS_PROXY_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
