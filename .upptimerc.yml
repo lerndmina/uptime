@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://icons.duckduckgo.com/ip3/imadam.io.ico
   name: Statuspage
   theme: ocean
-  introTitle: "**Are We Up?**"
+  introTitle: "Are We Up?"
   introMessage: "Hey there! Just checking in to see if our apps are behaving themselves. This page will give you the lowdown on whether everything's running smoothly or if we're having a bit of a hiccup. We're doing our best to keep things up and running, but if you spot any issues, let us know!"
   navbar:
     - title: Status
