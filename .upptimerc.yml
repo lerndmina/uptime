@@ -17,17 +17,19 @@ sites:
       - 201
   - name: Cors-Proxy
     url: $CORS_PROXY_URL
+  - name: MinIO
+    url: https://console.minioapp.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.imadam.io
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://icons.duckduckgo.com/ip3/imadam.io.ico
+  name: Statuspage
   theme: ocean
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: **Are We Up?**
+  introMessage: "Hey there! Just checking in to see if our apps are behaving themselves. This page will give you the lowdown on whether everything's running smoothly or if we're having a bit of a hiccup. We're doing our best to keep things up and running, but if you spot any issues, let us know!"
   navbar:
     - title: Status
       href: /
