@@ -4,19 +4,19 @@
     "url": "https://imadam.io",
     "icon": "https://icons.duckduckgo.com/ip3/imadam.io.ico",
     "slug": "imadam-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 381,
-    "timeWeek": 330,
-    "timeMonth": 377,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 371,
+    "timeDay": 347,
+    "timeWeek": 328,
+    "timeMonth": 375,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://commands.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/commands.wiki.ico",
     "slug": "commands-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 245,
-    "timeWeek": 209,
-    "timeMonth": 288,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 345,
+    "timeDay": 176,
+    "timeWeek": 196,
+    "timeMonth": 282,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 9
     }
   },
   {
