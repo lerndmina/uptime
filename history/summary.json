@@ -4,10 +4,10 @@
     "url": "https://imadam.io",
     "icon": "https://icons.duckduckgo.com/ip3/imadam.io.ico",
     "slug": "imadam-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
@@ -15,16 +15,18 @@
     "timeWeek": 330,
     "timeMonth": 377,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "commands.wiki",
     "url": "https://commands.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/commands.wiki.ico",
     "slug": "commands-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 209,
     "timeMonth": 288,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "shrt.zip",
