@@ -1,7 +1,7 @@
 url: $HANDY_URL
 status: down
-code: 404
-responseTime: 540
-lastUpdated: 2024-10-27T15:07:10.037Z
+code: 502
+responseTime: 573
+lastUpdated: 2024-10-27T23:06:14.421Z
 startTime: 2024-09-09T19:19:22.899Z
 generator: Upptime <https://github.com/upptime/upptime>
