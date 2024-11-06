@@ -21,6 +21,8 @@ sites:
     url: https://console.minioapp.uk
   - name: Handy
     url: $HANDY_URL
+  - name: Seedbox (for my linux ISOs)
+    url: $SEEDBOX_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
