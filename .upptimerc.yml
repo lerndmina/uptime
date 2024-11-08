@@ -19,7 +19,7 @@ sites:
     url: $CORS_PROXY_URL
   - name: MinIO
     url: https://console.minioapp.uk
-  - name: Handy
+  - name: Handy (My Personal Server)
     url: $HANDY_URL
   - name: Seedbox (for my linux ISOs)
     url: $SEEDBOX_URL
