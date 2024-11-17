@@ -21,6 +21,8 @@ sites:
     url: https://console.minioapp.uk
   - name: Handy (My Personal Server)
     url: $HANDY_URL
+  - name: Mini (A literal Mac Mini)
+    url: $MINISERVER_URL
   - name: Seedbox (for my linux ISOs)
     url: $SEEDBOX_URL
 
