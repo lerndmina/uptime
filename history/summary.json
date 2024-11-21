@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.92%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 2989,
     "timeDay": 4288,
     "timeWeek": 2989,
     "timeMonth": 2989,
     "timeYear": 2989,
     "dailyMinutesDown": {
-      "2024-11-20": 72
+      "2024-11-20": 58
     }
   },
   {
