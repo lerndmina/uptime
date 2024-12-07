@@ -134,7 +134,7 @@
     "url": "$MINISERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
-    "status": "up",
+    "status": "down",
     "uptime": "96.25%",
     "uptimeDay": "91.17%",
     "uptimeWeek": "93.71%",
