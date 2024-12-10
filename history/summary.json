@@ -40,9 +40,9 @@
     "url": "https://shrt.zip/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/shrt.zip.ico",
     "slug": "shrt-zip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 670,
     "timeMonth": 587,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   },
   {
     "name": "Thalwyrn",
@@ -135,18 +137,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
     "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
+    "uptime": "96.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
     "time": 7103,
-    "timeDay": 4364,
+    "timeDay": 490,
     "timeWeek": 9029,
     "timeMonth": 7103,
     "timeYear": 7103,
     "dailyMinutesDown": {
-      "2024-12-10": 15,
       "2024-12-09": 25,
       "2024-12-07": 145,
       "2024-12-05": 20,
