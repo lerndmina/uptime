@@ -13,7 +13,7 @@
     "time": 374,
     "timeDay": 253,
     "timeWeek": 317,
-    "timeMonth": 347,
+    "timeMonth": 341,
     "timeYear": 374,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 298,
     "timeDay": 55,
     "timeWeek": 191,
-    "timeMonth": 289,
+    "timeMonth": 283,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 605,
     "timeDay": 880,
     "timeWeek": 641,
-    "timeMonth": 633,
+    "timeMonth": 631,
     "timeYear": 605,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 759,
     "timeDay": 652,
     "timeWeek": 595,
-    "timeMonth": 572,
+    "timeMonth": 570,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 482,
     "timeDay": 593,
     "timeWeek": 502,
-    "timeMonth": 495,
+    "timeMonth": 491,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 582,
     "timeDay": 785,
     "timeWeek": 690,
-    "timeMonth": 696,
+    "timeMonth": 693,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 670,
     "timeDay": 499,
     "timeWeek": 535,
-    "timeMonth": 560,
+    "timeMonth": 558,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2024-11-29": 30,
@@ -134,16 +134,16 @@
     "url": "$MINISERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
-    "status": "up",
-    "uptime": "93.16%",
-    "uptimeDay": "58.72%",
+    "status": "down",
+    "uptime": "93.20%",
+    "uptimeDay": "58.71%",
     "uptimeWeek": "62.01%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "93.16%",
+    "uptimeMonth": "91.26%",
+    "uptimeYear": "93.20%",
     "time": 6547,
-    "timeDay": 5871,
+    "timeDay": 6035,
     "timeWeek": 7213,
-    "timeMonth": 6776,
+    "timeMonth": 6794,
     "timeYear": 6547,
     "dailyMinutesDown": {
       "2024-12-26": 247,
@@ -152,8 +152,7 @@
       "2024-12-23": 676,
       "2024-12-22": 683,
       "2024-12-21": 571,
-      "2024-12-20": 342,
-      "2024-12-18": 25
+      "2024-12-20": 342
     }
   },
   {
@@ -170,7 +169,7 @@
     "time": 1053,
     "timeDay": 1486,
     "timeWeek": 968,
-    "timeMonth": 988,
+    "timeMonth": 979,
     "timeYear": 1053,
     "dailyMinutesDown": {}
   }
