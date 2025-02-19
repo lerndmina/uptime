@@ -136,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
     "status": "up",
-    "uptime": "90.34%",
+    "uptime": "90.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.79%",
-    "uptimeYear": "90.34%",
+    "uptimeYear": "90.37%",
     "time": 5832,
     "timeDay": 409,
     "timeWeek": 521,
@@ -169,17 +169,19 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 729,
-    "timeWeek": 974,
-    "timeMonth": 949,
-    "timeYear": 994,
-    "dailyMinutesDown": {}
+    "time": 991,
+    "timeDay": 728,
+    "timeWeek": 943,
+    "timeMonth": 942,
+    "timeYear": 991,
+    "dailyMinutesDown": {
+      "2025-02-19": 0
+    }
   }
 ]
