@@ -40,19 +40,19 @@
     "url": "https://shrt.zip/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/shrt.zip.ico",
     "slug": "shrt-zip",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 807,
-    "timeWeek": 652,
+    "time": 616,
+    "timeDay": 725,
+    "timeWeek": 651,
     "timeMonth": 641,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 9
     }
   },
   {
