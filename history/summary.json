@@ -94,9 +94,9 @@
     "url": "https://console.minioapp.uk",
     "icon": "https://icons.duckduckgo.com/ip3/console.minioapp.uk.ico",
     "slug": "min-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 506,
     "timeMonth": 588,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-13": 0
+    }
   },
   {
     "name": "Handy (My Personal Server)",
@@ -136,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.18%",
+    "uptimeYear": "92.19%",
     "time": 5588,
     "timeDay": 380,
     "timeWeek": 461,
