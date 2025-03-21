@@ -1,7 +1,7 @@
 url: $MINISERVER_URL
-status: down
-code: 522
-responseTime: 19621
-lastUpdated: 2025-03-21T15:19:38.773Z
+status: up
+code: 200
+responseTime: 408
+lastUpdated: 2025-03-21T15:30:10.466Z
 startTime: 2024-11-17T05:57:01.776Z
 generator: Upptime <https://github.com/upptime/upptime>
