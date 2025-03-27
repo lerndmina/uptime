@@ -1,7 +1,7 @@
 url: $CORS_PROXY_URL
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2025-03-26T23:06:12.434Z
+status: down
+code: 502
+responseTime: 454
+lastUpdated: 2025-03-27T18:49:39.507Z
 startTime: 2024-09-04T13:47:10.519Z
 generator: Upptime <https://github.com/upptime/upptime>
