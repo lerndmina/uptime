@@ -135,14 +135,14 @@
     "url": "$MINISERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "47.25%",
-    "uptimeWeek": "58.25%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "97.76%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "58.66%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "97.78%",
     "time": 6365,
-    "timeDay": 12314,
+    "timeDay": 12703,
     "timeWeek": 8182,
     "timeMonth": 7591,
     "timeYear": 6365,
@@ -153,8 +153,7 @@
       "2025-03-24": 599,
       "2025-03-23": 620,
       "2025-03-22": 577,
-      "2025-03-21": 733,
-      "2025-03-20": 5
+      "2025-03-21": 697
     }
   },
   {
