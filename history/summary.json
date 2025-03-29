@@ -80,9 +80,9 @@
     "slug": "cors-proxy",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "73.70%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "72.40%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.86%",
     "time": 497,
     "timeDay": 424,
@@ -90,7 +90,7 @@
     "timeMonth": 534,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2025-03-29": 349,
+      "2025-03-29": 368,
       "2025-03-28": 30,
       "2025-03-27": 29
     }
@@ -141,17 +141,17 @@
     "url": "$MINISERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
-    "status": "up",
-    "uptime": "97.84%",
-    "uptimeDay": "56.21%",
-    "uptimeWeek": "59.30%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "97.84%",
-    "time": 6668,
-    "timeDay": 10089,
-    "timeWeek": 8874,
-    "timeMonth": 8089,
-    "timeYear": 6668,
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "57.43%",
+    "uptimeWeek": "59.46%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "97.85%",
+    "time": 6684,
+    "timeDay": 10297,
+    "timeWeek": 8917,
+    "timeMonth": 8125,
+    "timeYear": 6684,
     "dailyMinutesDown": {
       "2025-03-29": 232,
       "2025-03-28": 556,
@@ -160,7 +160,7 @@
       "2025-03-25": 586,
       "2025-03-24": 599,
       "2025-03-23": 620,
-      "2025-03-22": 87
+      "2025-03-22": 71
     }
   },
   {
