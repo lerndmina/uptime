@@ -81,8 +81,8 @@
     "status": "down",
     "uptime": "98.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.51%",
-    "uptimeMonth": "92.52%",
+    "uptimeWeek": "67.34%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "98.90%",
     "time": 498,
     "timeDay": 622,
@@ -90,7 +90,7 @@
     "timeMonth": 537,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-03-31": 337,
+      "2025-03-31": 354,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 30,
@@ -143,12 +143,12 @@
     "url": "$MINISERVER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mini-a-literal-mac-mini",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "49.12%",
-    "uptimeWeek": "56.34%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "49.11%",
+    "uptimeWeek": "56.56%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "97.73%",
     "time": 6816,
     "timeDay": 8167,
     "timeWeek": 9289,
@@ -162,7 +162,7 @@
       "2025-03-27": 719,
       "2025-03-26": 710,
       "2025-03-25": 586,
-      "2025-03-24": 35
+      "2025-03-24": 12
     }
   },
   {
