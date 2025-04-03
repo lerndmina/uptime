@@ -15,14 +15,14 @@ sites:
       - 400
       - 200
       - 201
-  - name: Cors-Proxy
-    url: $CORS_PROXY_URL
+  # - name: Cors-Proxy
+  #   url: $CORS_PROXY_URL
   - name: MinIO
     url: https://console.minioapp.uk
   - name: Handy (My Personal Server)
     url: $HANDY_URL
-  - name: Mini (A literal Mac Mini)
-    url: $MINISERVER_URL
+  # - name: Mini (A literal Mac Mini)
+  #   url: $MINISERVER_URL
   - name: Seedbox (for my linux ISOs)
     url: $SEEDBOX_URL
 
