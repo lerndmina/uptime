@@ -61,18 +61,20 @@
     "url": "https://thalwyrn.com/index.php?route=/api/v2/info",
     "icon": "https://icons.duckduckgo.com/ip3/thalwyrn.com.ico",
     "slug": "thalwyrn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 527,
-    "timeWeek": 655,
-    "timeMonth": 671,
-    "timeYear": 695,
-    "dailyMinutesDown": {}
+    "time": 757,
+    "timeDay": 9929,
+    "timeWeek": 2730,
+    "timeMonth": 1220,
+    "timeYear": 757,
+    "dailyMinutesDown": {
+      "2025-06-17": 0
+    }
   },
   {
     "name": "MinIO",
