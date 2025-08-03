@@ -4,9 +4,9 @@
     "url": "https://imadam.io",
     "icon": "https://icons.duckduckgo.com/ip3/imadam.io.ico",
     "slug": "imadam-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 741,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2025-08-03": 0,
       "2025-07-15": 18
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://commands.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/commands.wiki.ico",
     "slug": "commands-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 237,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2025-08-03": 0,
       "2025-07-15": 18
     }
   },
