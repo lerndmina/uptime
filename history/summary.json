@@ -133,19 +133,19 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 622,
-    "timeWeek": 1325,
-    "timeMonth": 1041,
-    "timeYear": 999,
+    "time": 1000,
+    "timeDay": 888,
+    "timeWeek": 1303,
+    "timeMonth": 1044,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 7
     }
   }
 ]
