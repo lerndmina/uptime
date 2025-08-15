@@ -8,12 +8,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 1126,
     "timeWeek": 1058,
-    "timeMonth": 807,
+    "timeMonth": 795,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-07-15": 18
@@ -28,12 +28,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 94,
     "timeWeek": 288,
-    "timeMonth": 230,
+    "timeMonth": 222,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-07-15": 18
@@ -66,19 +66,19 @@
     "url": "https://thalwyrn.com/index.php?route=/api/v2/info",
     "icon": "https://icons.duckduckgo.com/ip3/thalwyrn.com.ico",
     "slug": "thalwyrn",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "68.77%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.91%",
     "time": 740,
-    "timeDay": 440,
-    "timeWeek": 580,
-    "timeMonth": 647,
+    "timeDay": 576,
+    "timeWeek": 610,
+    "timeMonth": 653,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-08-15": 219
+      "2025-08-15": 450
     }
   },
   {
