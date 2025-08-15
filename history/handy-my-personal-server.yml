@@ -1,7 +1,7 @@
 url: $HANDY_URL
-status: down
-code: 522
-responseTime: 19698
-lastUpdated: 2025-08-15T13:21:21.452Z
+status: up
+code: 200
+responseTime: 619
+lastUpdated: 2025-08-15T15:33:48.553Z
 startTime: 2024-11-08T01:48:33.676Z
 generator: Upptime <https://github.com/upptime/upptime>
