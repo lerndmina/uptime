@@ -14,7 +14,7 @@
     "timeDay": 1053,
     "timeWeek": 943,
     "timeMonth": 928,
-    "timeYear": 590,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-10-20": 28,
       "2025-09-25": 15,
@@ -62,7 +62,7 @@
     "timeDay": 558,
     "timeWeek": 538,
     "timeMonth": 869,
-    "timeYear": 643,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-11-07": 17,
       "2025-11-03": 15,
@@ -89,7 +89,7 @@
     "timeDay": 804,
     "timeWeek": 749,
     "timeMonth": 734,
-    "timeYear": 754,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2025-08-15": 510
@@ -100,18 +100,19 @@
     "url": "https://console.minioapp.uk",
     "icon": "https://icons.duckduckgo.com/ip3/console.minioapp.uk.ico",
     "slug": "min-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.36%",
-    "time": 1197,
-    "timeDay": 567,
-    "timeWeek": 2426,
-    "timeMonth": 2187,
-    "timeYear": 1313,
+    "time": 1235,
+    "timeDay": 9999,
+    "timeWeek": 3843,
+    "timeMonth": 2579,
+    "timeYear": 1359,
     "dailyMinutesDown": {
+      "2025-11-08": 1,
       "2025-10-30": 661,
       "2025-10-29": 25,
       "2025-10-27": 36,
@@ -140,7 +141,7 @@
     "timeDay": 694,
     "timeWeek": 672,
     "timeMonth": 1656,
-    "timeYear": 1218,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2025-10-31": 17,
       "2025-10-30": 661,
@@ -174,7 +175,7 @@
     "timeDay": 1409,
     "timeWeek": 1134,
     "timeMonth": 1101,
-    "timeYear": 1073,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   }
 ]
