@@ -1,7 +1,7 @@
 url: https://shrt.zip/dashboard
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2025-11-28T23:07:03.329Z
+status: down
+code: 502
+responseTime: 664
+lastUpdated: 2025-11-29T06:42:43.806Z
 startTime: 2024-09-04T13:30:13.492Z
 generator: Upptime <https://github.com/upptime/upptime>
