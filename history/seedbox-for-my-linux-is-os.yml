@@ -1,7 +1,7 @@
 url: $SEEDBOX_URL
-status: down
-code: 502
-responseTime: 5736
-lastUpdated: 2025-12-04T23:07:26.514Z
+status: up
+code: 200
+responseTime: 1274
+lastUpdated: 2025-12-05T03:47:08.377Z
 startTime: 2024-11-06T17:07:04.334Z
 generator: Upptime <https://github.com/upptime/upptime>
