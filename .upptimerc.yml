@@ -25,6 +25,10 @@ sites:
   #   url: $MINISERVER_URL
   - name: Seedbox (for my linux ISOs)
     url: $SEEDBOX_URL
+    expectedStatusCodes:
+      - 502
+      - 200
+      - 201
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
