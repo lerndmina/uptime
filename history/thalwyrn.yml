@@ -1,7 +1,7 @@
 url: https://thalwyrn.com/index.php?route=/api/v2/info
-status: down
-code: 522
-responseTime: 19648
-lastUpdated: 2026-02-13T23:14:17.000Z
+status: up
+code: 400
+responseTime: 719
+lastUpdated: 2026-02-13T23:22:30.554Z
 startTime: 2024-09-04T13:47:09.502Z
 generator: Upptime <https://github.com/upptime/upptime>
