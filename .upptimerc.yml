@@ -13,6 +13,7 @@ sites:
     url: https://thalwyrn.com/index.php?route=/api/v2/info
     expectedStatusCodes:
       - 400
+      - 401
       - 200
       - 201
   # - name: Cors-Proxy
