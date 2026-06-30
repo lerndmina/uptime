@@ -233,10 +233,10 @@
     "slug": "min-io",
     "status": "down",
     "uptime": "92.67%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "86.68%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "86.67%",
     "time": 2331,
     "timeDay": 1000,
     "timeWeek": 816,
@@ -317,7 +317,7 @@
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
-      "2026-06-30": 1
+      "2026-06-30": 65
     }
   },
   {
@@ -326,11 +326,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handy-my-personal-server",
     "status": "down",
-    "uptime": "90.80%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "84.99%",
+    "uptime": "90.79%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "84.98%",
     "time": 2615,
     "timeDay": 9930,
     "timeWeek": 2796,
@@ -415,7 +415,7 @@
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
-      "2026-06-30": 0
+      "2026-06-30": 64
     }
   },
   {
