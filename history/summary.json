@@ -107,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thalwyrn.com.ico",
     "slug": "thalwyrn",
     "status": "up",
-    "uptime": "85.11%",
+    "uptime": "85.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -229,17 +229,17 @@
     "url": "https://console.minioapp.uk",
     "icon": "https://icons.duckduckgo.com/ip3/console.minioapp.uk.ico",
     "slug": "min-io",
-    "status": "up",
+    "status": "down",
     "uptime": "92.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "86.22%",
-    "time": 2343,
-    "timeDay": 1076,
-    "timeWeek": 936,
-    "timeMonth": 938,
-    "timeYear": 2902,
+    "time": 2342,
+    "timeDay": 729,
+    "timeWeek": 867,
+    "timeMonth": 920,
+    "timeYear": 2897,
     "dailyMinutesDown": {
       "2025-07-21": 584,
       "2025-07-20": 440,
@@ -316,7 +316,8 @@
       "2026-04-11": 1440,
       "2026-07-02": 448,
       "2026-07-01": 1440,
-      "2026-06-30": 1420
+      "2026-06-30": 1420,
+      "2026-07-16": 1
     }
   },
   {
@@ -324,17 +325,17 @@
     "url": "$HANDY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handy-my-personal-server",
-    "status": "up",
+    "status": "down",
     "uptime": "90.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "84.53%",
     "time": 2676,
-    "timeDay": 859,
-    "timeWeek": 519,
-    "timeMonth": 2251,
-    "timeYear": 3002,
+    "timeDay": 454,
+    "timeWeek": 460,
+    "timeMonth": 2184,
+    "timeYear": 2996,
     "dailyMinutesDown": {
       "2025-07-21": 584,
       "2025-07-20": 439,
@@ -415,7 +416,8 @@
       "2026-04-11": 1440,
       "2026-07-02": 448,
       "2026-07-01": 1440,
-      "2026-06-30": 1419
+      "2026-06-30": 1419,
+      "2026-07-16": 0
     }
   },
   {
