@@ -13,7 +13,7 @@
     "time": 895,
     "timeDay": 502,
     "timeWeek": 726,
-    "timeMonth": 760,
+    "timeMonth": 743,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2025-10-20": 28,
@@ -34,7 +34,7 @@
     "time": 253,
     "timeDay": 74,
     "timeWeek": 174,
-    "timeMonth": 200,
+    "timeMonth": 204,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-10-20": 28,
@@ -56,7 +56,7 @@
     "time": 696,
     "timeDay": 592,
     "timeWeek": 501,
-    "timeMonth": 555,
+    "timeMonth": 560,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -100,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thalwyrn.com.ico",
     "slug": "thalwyrn",
     "status": "up",
-    "uptime": "86.57%",
+    "uptime": "86.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -108,7 +108,7 @@
     "time": 2215,
     "timeDay": 754,
     "timeWeek": 3558,
-    "timeMonth": 4817,
+    "timeMonth": 4953,
     "timeYear": 2587,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -230,7 +230,7 @@
     "time": 2380,
     "timeDay": 925,
     "timeWeek": 781,
-    "timeMonth": 817,
+    "timeMonth": 813,
     "timeYear": 2602,
     "dailyMinutesDown": {
       "2025-10-27": 36,
@@ -321,15 +321,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handy-my-personal-server",
     "status": "down",
-    "uptime": "82.18%",
+    "uptime": "82.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.95%",
+    "uptimeYear": "66.82%",
     "time": 4678,
     "timeDay": 19278,
     "timeWeek": 19546,
-    "timeMonth": 19571,
+    "timeMonth": 19565,
     "timeYear": 5284,
     "dailyMinutesDown": {
       "2025-10-27": 36,
@@ -407,7 +407,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1419,
       "2026-07-16": 46,
-      "2026-09-28": 79,
+      "2026-09-28": 766,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -481,16 +481,16 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "96.39%",
-    "time": 1507,
+    "time": 1508,
     "timeDay": 1814,
     "timeWeek": 1550,
-    "timeMonth": 1826,
+    "timeMonth": 1837,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2025-12-05": 227,
@@ -509,7 +509,8 @@
       "2025-11-22": 1378,
       "2025-12-12": 16,
       "2026-05-01": 27,
-      "2026-09-21": 56
+      "2026-09-21": 56,
+      "2026-09-28": 0
     }
   }
 ]
