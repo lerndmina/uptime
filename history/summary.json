@@ -406,7 +406,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1419,
       "2026-07-16": 46,
-      "2026-10-05": 1362,
+      "2026-10-05": 1366,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -487,16 +487,16 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "down",
+    "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "96.38%",
-    "time": 1531,
-    "timeDay": 1441,
-    "timeWeek": 1508,
-    "timeMonth": 1877,
+    "time": 1533,
+    "timeDay": 1573,
+    "timeWeek": 1528,
+    "timeMonth": 1873,
     "timeYear": 1624,
     "dailyMinutesDown": {
       "2025-12-05": 227,
@@ -517,7 +517,7 @@
       "2026-05-01": 27,
       "2026-09-21": 56,
       "2026-09-28": 16,
-      "2026-10-05": 0
+      "2026-10-05": 5
     }
   }
 ]
