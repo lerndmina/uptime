@@ -218,10 +218,10 @@
     "slug": "min-io",
     "status": "down",
     "uptime": "92.78%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "94.37%",
     "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "84.98%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "84.97%",
     "time": 2436,
     "timeDay": 566,
     "timeWeek": 838,
@@ -308,7 +308,7 @@
       "2026-10-03": 31,
       "2026-10-23": 27,
       "2026-10-29": 492,
-      "2026-11-05": 26
+      "2026-11-05": 82
     }
   },
   {
@@ -317,11 +317,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handy-my-personal-server",
     "status": "down",
-    "uptime": "77.84%",
+    "uptime": "77.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.56%",
+    "uptimeYear": "56.54%",
     "time": 5794,
     "timeDay": 19683,
     "timeWeek": 19609,
@@ -399,7 +399,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1419,
       "2026-07-16": 46,
-      "2026-11-05": 741,
+      "2026-11-05": 797,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -511,17 +511,17 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "96.30%",
-    "time": 1487,
-    "timeDay": 1739,
-    "timeWeek": 1548,
-    "timeMonth": 1578,
-    "timeYear": 1639,
+    "status": "up",
+    "uptime": "98.14%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "96.29%",
+    "time": 1488,
+    "timeDay": 1756,
+    "timeWeek": 1570,
+    "timeMonth": 1583,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-12-05": 227,
       "2025-12-04": 1440,
@@ -547,7 +547,7 @@
       "2026-10-26": 30,
       "2026-10-25": 6,
       "2026-11-04": 22,
-      "2026-11-05": 24
+      "2026-11-05": 79
     }
   }
 ]
