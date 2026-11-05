@@ -216,17 +216,17 @@
     "url": "https://console.minioapp.uk",
     "icon": "https://icons.duckduckgo.com/ip3/console.minioapp.uk.ico",
     "slug": "min-io",
-    "status": "down",
+    "status": "up",
     "uptime": "92.78%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "84.99%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "84.98%",
     "time": 2436,
-    "timeDay": 587,
-    "timeWeek": 903,
-    "timeMonth": 889,
-    "timeYear": 2596,
+    "timeDay": 730,
+    "timeWeek": 914,
+    "timeMonth": 892,
+    "timeYear": 2593,
     "dailyMinutesDown": {
       "2025-11-10": 16,
       "2025-11-12": 362,
@@ -308,7 +308,7 @@
       "2026-10-03": 31,
       "2026-10-23": 27,
       "2026-10-29": 492,
-      "2026-11-05": 2
+      "2026-11-05": 24
     }
   },
   {
@@ -399,7 +399,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1419,
       "2026-07-16": 46,
-      "2026-11-05": 399,
+      "2026-11-05": 423,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -511,16 +511,16 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "down",
+    "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "96.30%",
-    "time": 1485,
-    "timeDay": 1646,
-    "timeWeek": 1516,
-    "timeMonth": 1572,
+    "time": 1487,
+    "timeDay": 1739,
+    "timeWeek": 1548,
+    "timeMonth": 1578,
     "timeYear": 1639,
     "dailyMinutesDown": {
       "2025-12-05": 227,
@@ -547,7 +547,7 @@
       "2026-10-26": 30,
       "2026-10-25": 6,
       "2026-11-04": 22,
-      "2026-11-05": 0
+      "2026-11-05": 23
     }
   }
 ]
