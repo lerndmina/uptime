@@ -1,7 +1,7 @@
 url: https://console.minioapp.uk
-status: up
-code: 200
-responseTime: 1016
-lastUpdated: 2026-11-05T07:01:03.921Z
+status: down
+code: 530
+responseTime: 75
+lastUpdated: 2026-11-05T12:19:09.565Z
 startTime: 2024-09-04T14:56:01.627Z
 generator: Upptime <https://github.com/upptime/upptime>
