@@ -224,7 +224,7 @@
     "timeDay": 604,
     "timeWeek": 880,
     "timeMonth": 867,
-    "timeYear": 2536,
+    "timeYear": 2506,
     "dailyMinutesDown": {
       "2025-11-18": 119,
       "2025-11-24": 390,
@@ -313,11 +313,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handy-my-personal-server",
     "status": "down",
-    "uptime": "76.93%",
+    "uptime": "76.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.29%",
+    "uptimeYear": "54.19%",
     "time": 6082,
     "timeDay": 19412,
     "timeWeek": 19707,
@@ -394,7 +394,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1419,
       "2026-07-16": 46,
-      "2026-11-14": 47,
+      "2026-11-14": 574,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
@@ -515,13 +515,13 @@
     "url": "$SEEDBOX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox-for-my-linux-is-os",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "96.29%",
-    "time": 1502,
+    "time": 1503,
     "timeDay": 1103,
     "timeWeek": 1563,
     "timeMonth": 1577,
@@ -551,7 +551,8 @@
       "2026-10-26": 30,
       "2026-10-25": 6,
       "2026-11-04": 22,
-      "2026-11-05": 79
+      "2026-11-05": 79,
+      "2026-11-14": 0
     }
   }
 ]
